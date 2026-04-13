@@ -2,7 +2,7 @@
 
 Hello there :)
 
-@catdrinkmonster, aka Sluuurp here!
+@catdrinkmonster, aka Sluuurp here! This is my new account.
 
 I have been building a lot of stuff, which I intend to make public once I'm happy with it.
 
@@ -12,7 +12,7 @@ At the moment, I'm suspended on Twitter for "Inauthentic Behaviour."
 One of my shitposts got flagged.
 I sarcastically suggested putting the ability to leave a website behind a paywall. lmao.
 
-Now I have to deal with Twitter customer support, which has been very uncharitable, with no privileges because this is my new account.
+Now I have to deal with Twitter customer support, which has been very uncharitable. -.-
 I'll be back soon, I promise.
 
 In the meantime, check out this very impressive app builder I built.
