@@ -1,17 +1,10 @@
 # Hi, I'm Sluuurp
 
 ```
-               __
-              /  )
-             /  /
-            / M/
-           /  /
-   /\_/\  /  /
-  ( -.- )(__/
-   > ^ </
+   /\_/\
+  ( -.- )
+   > ^ <
   /     \
  (  | |  )
   ^^   ^^
 ```
-
-Check out [buildnothing.today](https://buildnothing.today/)
