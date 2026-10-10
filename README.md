@@ -1,9 +1,17 @@
-# catdrinkmonster
+# Hi, I'm Sluuurp
 
-Hello there :)
+```
+               __
+              /  )
+             /  /
+            / M/
+           /  /
+   /\_/\  /  /
+  ( -.- )(__/
+   > ^ </
+  /     \
+ (  | |  )
+  ^^   ^^
+```
 
-I have been building a lot of stuff, which I intend to make public once I'm happy with it.
-
-Check out this useless App Builder:
-
-https://buildnothing.today/
+Check out [buildnothing.today](https://buildnothing.today/)
